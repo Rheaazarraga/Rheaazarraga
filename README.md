@@ -2,7 +2,7 @@
 
 ---
 
-- 🇨🇦 I am a Jr. Full-Stack Developer located in Vancouver, BC
+- 🇨🇦 I am a Full-Stack Developer located in Vancouver, BC
 - 🎓 I am a recent graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
 - 🌱 I am currently learning more about React and working on personal projects
 - ✨ I really enjoy Front End development and creating memorable user experiences
