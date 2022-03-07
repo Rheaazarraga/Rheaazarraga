@@ -1,3 +1,5 @@
+![tech1](https://user-images.githubusercontent.com/84409001/156968874-d060e747-efc2-4ebd-b5d8-6071211daf8b.jpg)
+
 <h2 align="center"> Hello World, I'm Rhea 👋</h2>
 
 ---
