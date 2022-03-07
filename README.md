@@ -4,10 +4,11 @@
 
 - 🇨🇦 I am a Full-Stack Developer located in Vancouver, BC
 - 🎓 I am a recent graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
-- 🌱 I am currently learning more about React and working on personal projects
+- 🌱👾 I am currently learning more about React, and dipping my toes in C#, Unity, and pixel art!
 - ✨ I really enjoy Front End development and creating memorable user experiences
-- 🧰 Some languages and libraries I'd like to explore include TypeScript, Python, Redux, Three.js, and TailwindCSS
-- 👾👩🏻‍🍳🐕 Fun facts about me: I love playing video games, making home-cooked meals and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)
+- 🧰 Some languages and libraries I'd like to explore include TypeScript, Python, Redux, Three.js, TailwindCSS, and Unreal Engine
+- 🔥 My dream job is to work in the gaming industry!
+- 🎮👩🏻‍🍳🐕 Fun facts about me: I love playing video games (PC), making home-cooked meals and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)
 - 📫 How to reach me: [email me](mailto:rheaazarraga@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rhea-azarraga/)
 
 <h2 align="center"> Languages & Tools I enjoy using:
