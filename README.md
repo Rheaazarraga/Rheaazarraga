@@ -24,6 +24,6 @@ Github Stats
 ---
 
 [![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rheaazarraga&theme=jolly)](https://github.com/Rheaazarraga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rheaazarraga&theme=jolly&layout=compact&langs_count=9)](https://github.com/Rheaazarraga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rheaazarraga&theme=jolly&layout=compact&langs_count=10)](https://github.com/Rheaazarraga/github-readme-stats)
 
 </h2>
