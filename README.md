@@ -8,7 +8,7 @@
 - 🎓 I am a recent graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
 - 🌱👾 I am currently learning more about React, and am dipping my toes in Python and experimenting with C#, Unity, and pixel art!
 - ✨ I really enjoy Front End development and creating memorable user experiences
-- 🧰 Some languages and libraries I'd like to explore include TypeScript, Python, Redux, Three.js, TailwindCSS, and Unreal Engine
+- 🧰 Tools & Technologies I'd like to explore include TypeScript, Python, Redux, Three.js, TailwindCSS, and Unreal Engine
 - 🔥 My dream is to work in the gaming industry!
 - 🎮👩🏻‍🍳🐕 Fun facts about me: I love playing video games (PC), making home-cooked meals and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)
 - 📫 How to reach me: [email me](mailto:rheaazarraga@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rhea-azarraga/)
@@ -24,6 +24,6 @@ Github Stats
 ---
 
 [![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rheaazarraga&theme=jolly)](https://github.com/Rheaazarraga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rheaazarraga&theme=jolly&layout=compact)](https://github.com/Rheaazarraga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rheaazarraga&theme=jolly&layout=compact&langs_count=10)](https://github.com/Rheaazarraga/github-readme-stats)
 
 </h2>
