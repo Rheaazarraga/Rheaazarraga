@@ -6,7 +6,7 @@
 
 - 🇨🇦 I am a Full-Stack Developer located in Vancouver, BC
 - 🎓 I am a recent graduate from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
-- 🌱👾 I am currently learning more about React, and dipping my toes in C#, Unity, and pixel art!
+- 🌱👾 I am currently learning more about React, and am dipping my toes in Python and experimenting with C#, Unity, and pixel art!
 - ✨ I really enjoy Front End development and creating memorable user experiences
 - 🧰 Tools & Technologies I'd like to explore include TypeScript, Python, Redux, Three.js, TailwindCSS, and Unreal Engine
 - 🔥 My dream is to work in the gaming industry!
