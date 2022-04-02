@@ -5,7 +5,7 @@
 ---
 
 - 🍁 I am a Full-Stack Developer based in Vancouver, BC
-- 🎓 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
+- 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
 - 🌱 I am currently learning Python and want to build more projects with React
 - 🧪👾 I am also experimenting with C#, Unity, and pixel art in my spare time!
 - ✨ I really enjoy Front End development and creating memorable user experiences
