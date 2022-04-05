@@ -6,7 +6,7 @@
 
 - 🍁 I am a Full-Stack Developer based in Vancouver, BC
 - 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
-- 🌱 I am currently learning Python and want to build more projects with React
+- 🌱 I am currently learning Python, revisiting Ruby on Rails as well as creating more projects with React
 - 🧪👾 I am also experimenting with C#, Unity, and pixel art in my spare time!
 - ✨ I really enjoy Front End development and creating memorable user experiences
 - 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, Angular, TailwindCSS, and Unreal Engine
