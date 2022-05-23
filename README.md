@@ -10,7 +10,7 @@
 - 🧪👾 I am also experimenting with C#, Unity, and pixel art in my spare time!
 - ✨ I really enjoy Front End development and creating memorable user experiences
 - 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, Angular, TailwindCSS, and Unreal Engine
-- 🔥🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!
+- 🌎🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!
 - 🎮👩🏻‍🍳🐕 Fun facts about me: I love playing video games (PC), making home-cooked meals, and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)
 - 📫 How to reach me: [send me an email](mailto:rheaazarraga@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rhea-azarraga/)
 
