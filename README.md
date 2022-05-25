@@ -5,6 +5,7 @@
 ---
 
 - 🍁 I am a Full-Stack Developer based in Vancouver, BC
+- 👉 Check out my portfolio site [here](https://rheaazarraga.github.io./) 👈
 - 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
 - 🌱 I am currently learning Python, digging more into Ruby on Rails, and working on personal projects with React
 - 🧪👾 I have also been experimenting with C#, Unity, and pixel art in my spare time!
