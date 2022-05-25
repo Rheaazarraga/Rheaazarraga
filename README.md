@@ -2,16 +2,14 @@
 
 <h2 align="center"> Hello World, I'm Rhea 👋</h2>
 
----
-
 - 🍁 I am a Full-Stack Developer based in Vancouver, BC
 - 👉 Check out my portfolio site [here](https://rheaazarraga.github.io./) 👈
 - 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
-- 🌱 I am currently learning Python, digging more into Ruby on Rails, and working on personal projects with React
+- 🌱 I am currently working on personal projects with Ruby on Rails and React
 - 🧪👾 I have also been experimenting with C#, Unity, and pixel art in my spare time!
-- ✨ I really enjoy Front End development and creating memorable user experiences
-- 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, Next.js, Vue.js, TailwindCSS, and Unreal Engine
-- 🔥🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!
+- 🪄 I really enjoy front end development and creating memorable user experiences
+- 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, Angular, TailwindCSS, and Unreal Engine
+- 🌎🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!
 - 🎮👩🏻‍🍳🐕 Fun facts about me: I love playing video games (PC), making home-cooked meals, and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)
 - 📫 How to reach me: [email me](mailto:rheaazarraga@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rhea-azarraga/)
 
