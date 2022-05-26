@@ -6,7 +6,6 @@
 - 👉 Check out my portfolio site [here](https://rheaazarraga.github.io./) 👈
 - 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
 - 🌱 I am currently working on personal projects with Ruby on Rails and React
-- 🧪👾 I have also been experimenting with C#, Unity, and pixel art in my spare time!
 - 🪄 I really enjoy front end development and creating memorable user experiences
 - 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, Angular, TailwindCSS, and Unreal Engine
 - 🌎🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!
