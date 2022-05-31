@@ -3,7 +3,7 @@
 <h2 align="center"> Hello World, I'm Rhea 👋</h2>
 
 * 🍁 I am a Full-Stack Developer based in Vancouver, BC  
-* 👉 Check out my portfolio site [here](https://rheaazarraga.github.io./) 👈  
+* 👉 Check out my portfolio site [here](https://rhea-azarraga.netlify.app/) 👈  
 * 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)  
 * 🌱 I am currently working on personal projects with Ruby on Rails and React  
 * 🪄 I really enjoy front end development and creating memorable user experiences  
