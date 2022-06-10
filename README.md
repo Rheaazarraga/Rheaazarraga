@@ -8,7 +8,6 @@
 * 🌱 I am currently working on personal projects with Ruby on Rails and React  
 * 🪄 I really enjoy front end development and creating memorable user experiences  
 * 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, TailwindCSS, and Unreal Engine  
-* 🌎🤝 I have a keen interest to work in the gaming industry, but ultimately wish to work in a team that creates a positive impact!  
 * 🎮👩🏻‍🍳🐕 Fun facts about me: I love playing video games (PC), making home-cooked meals, and playing with my dog, [Bita Bean](https://www.instagram.com/bitabeanbb/)  
 * 📫 How to reach me: [email me](mailto:rheaazarraga@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rhea-azarraga/)  
 
