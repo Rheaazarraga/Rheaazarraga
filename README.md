@@ -4,7 +4,7 @@
 
 * 🍁 I am a Full-Stack Developer based in Vancouver, BC  
 * 👉 Check out my portfolio site [here](https://rhea-azarraga.netlify.app/) 👈  
-* 👩🏻‍💻 I am an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)  
+* 👩🏻‍💻 I am a SWE Intern at [ThisFish](https://this.fish/) and recent apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)  
 * 🌱 I am currently working on personal projects using React, Next.js and Ruby on Rails
 * 🪄 I really enjoy front end development and creating memorable user experiences  
 * 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, TailwindCSS, and Unreal Engine  
