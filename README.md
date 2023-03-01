@@ -4,7 +4,8 @@
 
 * 🍁 I am a Full-Stack Developer based in Vancouver, BC  
 * 👉 Check out my portfolio site [here](https://rhea-azarraga.netlify.app/) 👈  
-* 👩🏻‍💻 I am a SWE Intern at [ThisFish](https://this.fish/) and recent apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/)  
+* 👩🏻‍💻 I've interned as a Software Engineer at [ThisFish](https://this.fish/) and apprentice mentored at [Lighthouse Labs](https://www.lighthouselabs.ca/)  
+* 🎬 Peep the teaser video for a feature I implemented at my internship [here](https://this.fish/blog/msc-validations-with-tally/?utm_medium=email&utm_campaign=EN%20CATCH-UP%2018%20Enter%20the%20new%20year%20with%20our%20first%20Tally%20Product%20Video&utm_content=EN%20CATCH-UP%2018%20Enter%20the%20new%20year%20with%20our%20first%20Tally%20Product%20Video+CID_09020021f62f40ac30ab6915755f3b9e&utm_source=Campaign%20Monitor&utm_term=WATCH%20VIDEO)
 * 🌱 I am currently working on personal projects using React and Next.js
 * 🪄 I really enjoy front end development and creating memorable user experiences  
 * 🧰 Tools & Technologies I'd love to explore include TypeScript, Redux, Three.js, TailwindCSS, and Unreal Engine  
